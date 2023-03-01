@@ -3,10 +3,33 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background: #fcf3d9
+
 }
+.top h1{
+    text-align: ;
+}
+.me {
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: ;
+    margin-top: ;
+  }
+  .classified{
+    float: left;
+    width: 125px;
+    height: 125px;
+    background: transparent ;
+    justify-self: center;
+  }
+ .top h1 {
+    
+   
+  }
 
 h1 {
-    font-size: 6em;
+    font-size: 3em;
     letter-spacing: .em;
     padding-top: em;
     padding-bottom: .5em;
@@ -19,8 +42,10 @@ h1 {
 }
 .bigFont{
     font-weight: normal;
+    margin-right: 3%;
     
 }
+
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
@@ -32,11 +57,12 @@ h3 {
 }
 
 
-    main { 
+main { 
         display: grid;
-        grid-template-columns: 40% 60%;
-        margin-top: 3em;
+        grid-template-columns: 30% 70%;
+        margin-top: em;
     }
+    
     header {
         text-align: center;
         margin: auto 2em;
@@ -66,6 +92,9 @@ h3 {
     }
     #mainLeft {
         border-right: 1px solid lightgray;
+    }
+    #topleft{
+
     }
 
 
