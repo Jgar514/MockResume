@@ -47,7 +47,7 @@ body {
     height: 35%;
     background: transparent;
     opacity: 0.;
-    object-fit: contain;
+    
 }
 
 .snow{
@@ -66,9 +66,9 @@ body {
 }
 .clip{
     position: absolute;
-    top: -4%;
-    left: 78%;
-    transform: rotate(-25deg);
+    top: -6%;
+    left: 76%;
+    transform: rotate(-28deg);
     height: 20%;
     background: transparent;
     opacity: 0.;
@@ -82,12 +82,12 @@ body {
 .stain{
     position: absolute;
     top: 35%;
-    left: 65%;
+    left: 62%;
     width; 300px;
-    height: 300px;
-    background: transparent;
-    opacity: 0.;
-    object-fit: contain;
+    height: 330px;
+    
+    opacity: 0.5;
+    
 }
   
 h1 {
