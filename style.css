@@ -235,10 +235,14 @@ h3 {
 
     .classified {
         float: left;
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
         background: transparent;
         padding-left: 0%;
+    }
+
+    .instruct {
+        font-size: .8rem;
     }
 
     .me {
@@ -255,7 +259,8 @@ h3 {
     .snow {
         color: #E3171B;
         font-weight: bold;
-        font-size: 1.5em;
+        font-size: 1.4em;
+
 
     }
 
@@ -372,6 +377,7 @@ h3 {
         font-weight: bold;
         margin-bottom: 0;
         font-size: 1.2rem;
+        margin-top: .5rem;
     }
 
     #mainLeft {
